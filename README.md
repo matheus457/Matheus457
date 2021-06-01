@@ -9,10 +9,10 @@
 <img align="center" alt="Matheus-linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
 </a>
 </a>
-<a href="https://Menesesmatheus993@gmail.com/" target="_blank">
+<a href="Menesesmatheus993@gmail.com" target="_blank">
 <img align="center" alt="diego-instagram" height="30" width="40" src="https://img-premium.flaticon.com/png/512/281/281769.png?token=exp=1622587086~hmac=2cc0d0ebc9f0a4097b624094aea33f67" style="max-width:100%;">
 </a>
-<a href="https://https://www.instagram.com/mmeneses_232//" target="_blank">
+<a href="https://www.instagram.com/mmeneses_232" target="_blank">
 <img align="center" alt="Matheus Meneses-instagram" height="30" width="40" src="https://image.flaticon.com/icons/png/512/1384/1384063.png" style="max-width:90%;">
 </a>
 
