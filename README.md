@@ -26,6 +26,11 @@
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_css_icon_130661.png" alt="css" width="40" height="40" style="max-width:100%;"></img>
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheus457&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
 ## Learning
 <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/vuejs_original_logo_icon_146304.png" alt="vuejs" width="40" height="40" style="max-width:100%;"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain-wordmark.svg" alt="vuejs" width="40" height="40" style="max-width:100%;"></img>
@@ -39,7 +44,8 @@
 
 
 ![Diego's github stats](https://github-readme-stats.vercel.app/api?username=matheus457&show_icons=true&count_private=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheus457&layout=compact)](https://github.com/matheus457/github-readme-stats)
+
+
 
 
 
