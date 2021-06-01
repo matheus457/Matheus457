@@ -5,7 +5,7 @@
 - I'm a beginner in this world of developers, I hope to help and also get help from everyone in this community!
 
 ## Connect with me:
-<a href="https://https://www.linkedin.com/in/matheus-meneses-13bb73186//" target="_blank">
+<a href="https://www.linkedin.com/in/matheus-meneses-13bb73186" target="_blank">
 <img align="center" alt="Matheus-linkedin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
 </a>
 </a>
