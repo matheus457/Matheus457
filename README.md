@@ -1,7 +1,6 @@
 ### Hi there 👋
 ## I'm Matheus Meneses
 - I live in São Paulo :brazil:
-- I have been learnig more about HTML, CSS, Javascript :sparkling_heart:
 - Currently studying Information System College :desktop_computer:
 
 ## Connect with me:
