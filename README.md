@@ -45,6 +45,8 @@
 
 ![Diego's github stats](https://github-readme-stats.vercel.app/api?username=matheus457&show_icons=true&count_private=true&theme=radical)
 
+All languages ​​and tools informed are knowledge and small experiences with personal projects and linked to the university.
+
 
 
 
